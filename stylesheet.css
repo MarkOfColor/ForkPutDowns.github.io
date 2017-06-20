@@ -1,0 +1,27 @@
+body {
+  background-color: #3d3d3d;
+  color: white;
+}
+
+#content {
+  background-color: #333333;
+  margin: 30px 200px 0px 200px;
+  padding: 50px;
+}
+
+#portfolio-image {
+  width: 350px;
+  height: 150px;
+}
+
+#bjj-image {
+  width: 600px;
+  height: 500px
+}
+
+
+.btn-width {
+  margin: 4px;
+  background-color: #4c4c4c;
+  color: white;
+}
